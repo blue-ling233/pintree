@@ -3032,8 +3032,12 @@
         "type": "folder",
         "addDate": 1718526865435,
         "title": "Programming",
-        "children": [
-          {
+        "children": [{
+              "type": "folder",
+              "addDate": 1718526865435,
+              "title": "Project开源项目",
+              "children": [
+                  {
             "type": "link",
             "addDate": 1717203935000,
             "title": "GitHub - langchain-ai/langchain: ⚡ Building applications with LLMs through composability ⚡",
@@ -3411,7 +3415,8 @@
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/bytewax/awesome-public-real-time-datasets"
           }
-        ]
+              ]
+            }]
       },
       {
         "type": "folder",
